@@ -1,0 +1,5 @@
+pada langkah pembuatan moodle harus terinstal docker.io sebagai container untuk mendownload aplikasi moodlenya 
+gunakan ssh sebagai penghubung antara pc dengan server azure yang telah dibuat sebelumnya jika belum maka harus dibuat azure virtual machinenya
+dengan mangaktifkan port ssh
+
+langkah untuk memulai membuat
